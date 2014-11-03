@@ -9,7 +9,7 @@ class Mosaic {
 	private $db_config = array(
 		'host'     => 'localhost',
 		'username' => 'root',
-		'pwd'      => 'toor',
+		'pwd'      => '',
 		'db_name'  => 'mosaic'
 	);
 
